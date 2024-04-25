@@ -1,0 +1,19 @@
+p {
+    background-color: #F56284;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.cooler {
+    font-size: 24px;
+}
+
+#bigblue {
+    font-size: 36px;
+    color: #060AFC;
+}
+
+#hulk {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #20FC06;
+}
